@@ -5,7 +5,7 @@
 <div align="center">
     <p>
         <a href="https://ddiyonglog.tistory.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Velog-20C997?style=for-the/badge&logo=Velog&logoColor=FFFFFF"/>
+        <img src="https://img.shields.io/badge/Tistory-20C997?style=for-the/badge&logo=Tistory&logoColor=FFFFFF"/>
     </a>
     <a href="https://github.com/ji-zero2" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the/badge&logo=GitHub&logoColor=FFFFFF"/>
